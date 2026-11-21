@@ -1,0 +1,16 @@
+{
+  "artifact": "dist/LiquidGraphite_TEST_minimal.itz",
+  "sha256": "2ba892768d08aa94bb9ef834279ee8924044b2c82ee1eff8b897e52e27e6b945",
+  "bytes": 504294,
+  "label": "TEST_CANDIDATE",
+  "global_compatibility": "UNVERIFIED",
+  "key_file": "OMITTED_UNKNOWN_ALGORITHM",
+  "icons": [
+    "com.android.dialer.png",
+    "com.android.mms.png",
+    "com.android.settings.png",
+    "com.vivo.gallery.png",
+    "com.android.camera.png"
+  ],
+  "built_at_unix_ms": 1795276878512
+}
