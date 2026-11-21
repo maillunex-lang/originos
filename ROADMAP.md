@@ -3,7 +3,8 @@
 Target: iQOO 15R, OriginOS 7 Global. Strict stage order; approved GDDs are immutable without owner approval.
 
 - [x] GDD-01 Visual direction approved (docs/GDD-01.md)
-- [ ] GDD-02 ITZ format, install feasibility and device compatibility (draft awaiting approval)
+- [x] GDD-02 technical specification approved (docs/GDD-02.md)
+- [ ] GDD-02 implementation: inspect genuine .itz sample, build minimal candidate, validate on OriginOS 7 Global; compatibility UNVERIFIED
 - [ ] GDD-03 Icon inventory, app/package mapping, generation pipeline
 - [ ] GDD-04 Wallpaper, lock screen, AOD where supported
 - [ ] GDD-05 System UI components where supported
